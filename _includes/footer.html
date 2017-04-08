@@ -1,0 +1,20 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; {{ site.title }}</span>; <a href="https://www.flickr.com/photos/brhefele/4661621066/">image source</a>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+<!-- Start of StatCounter Code for Default Guide -->
+
+<!-- End of StatCounter Code for Default Guide -->
+    </footer>

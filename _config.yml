@@ -1,0 +1,15 @@
+url: https://chauff.github.io/ictWI2017
+baseurl: /ictWI2017
+# Site settings
+title: "ICT with Industry 2017"
+email: ictwithindustry@nwo.nl
+description: "ICT with Industry Workshop 2017."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: https://twitter.com/???
+
+# Build settings
+markdown: kramdown
+permalink: pretty
