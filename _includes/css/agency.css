@@ -5,7 +5,8 @@
  */
 
  mark {
-     color:greenyellow;
+     backbround-color: #{{ site.data.template.color.primary }};
+     color: white;
  }
 
 .fa-stack {
