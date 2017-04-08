@@ -1,8 +1,8 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: FF4C3B  #red link color
-  secondary: F73421 #darker red hover link color   
-  secondary-dark: F73421
+  secondary: FFF #darker red hover link color   
+  secondary-dark: CCC
   muted: 555
   sectionBG1: 44474c #ECECEC
   sectionBG2: 333438 #DEDEDE
