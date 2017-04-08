@@ -760,9 +760,8 @@ footer {
 
 footer span.copyright {
     text-transform: uppercase;
-    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
-    line-height: 30px;
+    line-height: 20px;
 }
 
 .btn:focus,
