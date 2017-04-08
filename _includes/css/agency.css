@@ -7,7 +7,7 @@
 
 .emphasize-text {
     color: #fff;
-    font-weight: bolder;
+    font-weight: 550;
 }
 
 table, th, td {
@@ -43,11 +43,11 @@ body {
     background-color: #555;
 }
 
-#overview, #program, #organisation {
+#overview, #program, #registration {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
-#cfp, #registration {
+#cfp, #organisation {
     background-color: #{{ site.data.template.color.sectionBG2 }};
 }
 
