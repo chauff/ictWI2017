@@ -1,1 +1,1 @@
-Website of the ICT with Industry workshop 2017.
+Website of the ICT with Industry workshop 2017
