@@ -5,7 +5,7 @@
  */
 
 .fa-stack {
-    color: #FF0;
+    color: #{{ site.data.template.color.primary }};
 }
 
 .emphasize-text {
