@@ -4,10 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- mark {
-     backbround-color: #{{ site.data.template.color.primary }};
-     color: white;
- }
+ 
 
 .fa-stack {
     color: #{{ site.data.template.color.primary }};
@@ -873,3 +870,8 @@ body {
 a:hover {
     text-decoration:underline overline !important;
 }
+
+mark {
+     backbround-color: #{{ site.data.template.color.primary }};
+     color: white;
+ }
