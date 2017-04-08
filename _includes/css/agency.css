@@ -5,6 +5,11 @@
  */
 
 
+.emphasize-text {
+    color: #fff;
+    font-weight: bold;
+}
+
 table, th, td {
     border: 2px solid white;
 }
