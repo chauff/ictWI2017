@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ mark {
+     color:greenyellow;
+ }
+
 .fa-stack {
     color: #{{ site.data.template.color.primary }};
 }
