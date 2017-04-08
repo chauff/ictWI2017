@@ -4,6 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+a:hover {
+    text-decoration: underline;
+}
 table, th, td {
     border: 2px solid white;
 }
@@ -400,7 +403,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 75px 0;
     }
 }
 
