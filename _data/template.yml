@@ -2,7 +2,7 @@
 color:
   primary: FF4C3B  #red link color
   secondary: FFF #darker red hover link color   
-  secondary-dark: CCC
+  secondary-dark: DDD
   muted: 555
   sectionBG1: 44474c #ECECEC
   sectionBG2: 333438 #DEDEDE
