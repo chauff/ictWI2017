@@ -4,6 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.fa-stack {
+    color: #FF0;
+}
 
 .emphasize-text {
     color: #f7b1aa;
@@ -43,7 +46,7 @@ body {
     background-color: #555;
 }
 
-#overview, #program, #registration {
+#overview, #program, #registration, footer {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
