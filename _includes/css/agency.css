@@ -388,6 +388,7 @@ section h3.section-subheading {
     margin: 15px 0;
     text-transform: none;
     color: white;
+    font-weight: 600;
 }
 
 #portfolio .portfolio-item {
