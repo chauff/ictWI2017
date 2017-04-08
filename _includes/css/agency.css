@@ -872,7 +872,7 @@ a:hover {
 }
 
 mark {
-     backbround-color: #{{ site.data.template.color.primary }};
+     background-color: #{{ site.data.template.color.primary }};
      color: white;
      padding: .2em;
  }
