@@ -5,7 +5,9 @@
  */
 
  #bs-example-navbar-collapse-1 {
-   background-color: #000;
+   background-color: #{{ site.data.template.color.sectionBG1 }};
+   padding-left: 10px;
+   padding-right:10px;
  }
 
 .fa-stack {
