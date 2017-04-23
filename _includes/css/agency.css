@@ -4,7 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- 
+ #bs-example-navbar-collapse-1 {
+   background-color: #000;
+ }
 
 .fa-stack {
     color: #{{ site.data.template.color.primary }};
