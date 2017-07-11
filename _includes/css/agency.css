@@ -56,7 +56,7 @@ body {
     background-color: #{{ site.data.template.color.sectionBG1 }};
 }
 
-#cfp, #organisation {
+#cfpa, #organisation {
     background-color: #{{ site.data.template.color.sectionBG2 }};
 }
 
