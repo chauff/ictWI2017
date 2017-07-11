@@ -14,6 +14,10 @@
     color: #{{ site.data.template.color.primary }};
 }
 
+.imgImpression {
+   padding-right: 0.5cm;
+}
+
 .emphasize-text {
     color: #f7b1aa;
     font-weight: 600;
